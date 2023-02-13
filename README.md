@@ -3,6 +3,7 @@
 ### 欢迎来到张铭的Github 👋
 - 📖 努力学习编译原理
 - ✒️ 正在规划下一阶段目标
+- 😍 获取本账号头像的[全身像](https://github.com/zmdo/zmdo/blob/master/%E3%81%BF%E3%82%86%E3%81%8D%20(%E7%94%BB%E5%B8%88-%E5%96%B5%E5%92%95%E5%85%88%E6%A3%AE).jpg)
 
 ### 目前维护的网站
 - zmdo 的个人主页 : https://zmdo.cn
