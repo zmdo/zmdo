@@ -24,3 +24,4 @@
 - [pogo](https://github.com/zmdo/pogo) : 可视化 golang 编程中的数据持久化结构体。已被 [Goload 插件仓库](https://plugins.jetbrains.com/plugin/16372-pogo) 收录。
 - [pomaker](https://github.com/zmdo/pomaker) : 根据 navicat 生成的 sql 语句，自动其将转换为 golang 数据持久化结构体，配合 pogo 插件使用。
 - [indexmenu 增强版](https://github.com/zmdo/indexmenu) : dokuwiki 目录插件，fork 自 [indexmenu](https://github.com/samuelet/indexmenu)，我在原有的基础上增加了 “目录排序” 及 “自定义目录标题” 功能。
+- [MCU32MathLib](https://github.com/openzzuli/MCU32MathLib) : 早期参加单片机比赛项目的一个数学库，实现了基础的快速傅里叶变换、卡尔曼滤波、矩阵计算、复数计算等算法。
