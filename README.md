@@ -22,4 +22,4 @@
 - [tomcar.js](https://github.com/zmdo/tomcar.js) : 用 Typescript 实现 基因遗传 + 神经网络 算法的模拟跑车比赛。
 - [pogo](https://github.com/zmdo/pogo) : 可视化 golang 编程中的数据持久化结构体。已被 [Goload 插件仓库](https://plugins.jetbrains.com/plugin/16372-pogo) 收录。
 - [pomaker](https://github.com/zmdo/pomaker) : 根据 navicat 生成的 sql 语句，自动其将转换为 golang 数据持久化结构体，配合 pogo 插件使用。
-- [indexmenu 增强版](https://github.com/zmdo/indexmenu) : dokuwiki 目录插件，fork 自 [samuelet/indexmenu](https://github.com/samuelet/indexmenu)，我在原有的基础上增加了 “目录排序” 及 “自定义目录标题” 功能。
+- [indexmenu 增强版](https://github.com/zmdo/indexmenu) : dokuwiki 目录插件，fork 自 [indexmenu](https://github.com/samuelet/indexmenu)，我在原有的基础上增加了 “目录排序” 及 “自定义目录标题” 功能。
