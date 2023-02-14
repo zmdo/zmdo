@@ -14,7 +14,9 @@
 注2：目前由于工作繁忙，暂时搁置了维护工作，如果想参与到网站的开发中，请[邮件](mailto://i@zmdo.cn)联系。
 
 ### 开发/维护中的项目
-- [loongson.js](https://github.com/zmdo/loongson.js) : 用 Typescript 实现龙芯 Loongarch 架构模拟。
+- [loongson.js](https://github.com/zmdo/loongson.js) : (**正在开发**) 用 Typescript 实现龙芯 Loongarch 架构模拟。
+- [openems](https://github.com/zmdo/openems) : (**维护**) 开源的 JavaFX GUI 敏捷开发框架。
+- [labfx](https://github.com/zmdo/labfx) : (**维护**) 一个仿 Matlab 主题的 JavaFX 控件库。
 
 ### 计划的项目
 - [elecasm](https://github.com/zmdo/elecasm) : 在实现 loongarch.js 项目后实现一个简易的 Loongarch64 汇编器。
