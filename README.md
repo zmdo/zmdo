@@ -13,7 +13,7 @@
 注1：上述网站的 wiki 系统皆使用了定制化的 Indexmenu 插件，并已遵守 GPL-2.0 协议公开[源码](https://github.com/zmdo/indexmenu)。\
 注2：目前由于工作繁忙，暂时搁置了维护工作，如果想参与到网站的开发中，请[邮件](mailto://i@zmdo.cn)联系。
 
-### 维护中的项目
+### 开发/维护中的项目
 - [loongson.js](https://github.com/zmdo/loongson.js) : 用 Typescript 实现龙芯 Loongarch 架构模拟。
 
 ### 计划的项目
@@ -25,3 +25,5 @@
 - [pomaker](https://github.com/zmdo/pomaker) : 根据 navicat 生成的 sql 语句，自动其将转换为 golang 数据持久化结构体，配合 pogo 插件使用。
 - [indexmenu 增强版](https://github.com/zmdo/indexmenu) : dokuwiki 目录插件，fork 自 [indexmenu](https://github.com/samuelet/indexmenu)，我在原有的基础上增加了 “目录排序” 及 “自定义目录标题” 功能。
 - [MCU32MathLib](https://github.com/openzzuli/MCU32MathLib) : 早期参加单片机比赛实现的数学库，包含了快速傅里叶变换、卡尔曼滤波、矩阵计算、复数计算等算法。
+
+注1：MCU32MathLib 项目是由原账号 [Mingozon](https://github.com/MingoZon) 上传到[郑州轻工业大学开源社区](https://github.com/openzzuli)的项目。
