@@ -31,5 +31,5 @@
 注1：MCU32MathLib 项目是由学生时期账号 [Mingozon](https://github.com/MingoZon) 上传到[郑州轻工业大学开源社区](https://github.com/openzzuli)的项目。
 
 ### 微型项目
-- [magicunit](https://github.com/zmdo/magicunit) 一个可以根据四位字符串生成图案的小工具。
+- [magicunit](https://github.com/zmdo/magicunit) : 一个可以根据四位字符串生成图案的小工具。
 
