@@ -29,3 +29,7 @@
 - [MCU32MathLib](https://github.com/openzzuli/MCU32MathLib) : 早期参加单片机比赛实现的数学库，包含了快速傅里叶变换、卡尔曼滤波、矩阵计算、复数计算等算法。
 
 注1：MCU32MathLib 项目是由学生时期账号 [Mingozon](https://github.com/MingoZon) 上传到[郑州轻工业大学开源社区](https://github.com/openzzuli)的项目。
+
+### 微型项目
+- [magicunit](https://github.com/zmdo/magicunit) 一个可以根据四位字符串生成图案的小工具。
+
