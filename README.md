@@ -13,8 +13,8 @@
 注1：上述网站的 wiki 系统皆使用了定制化的 Indexmenu 插件，并已遵守 GPL-2.0 协议公开[源码](https://github.com/zmdo/indexmenu)。\
 注2：目前由于工作繁忙，暂时搁置了维护工作，如果想参与到网站的开发中，请[邮件](mailto://i@zmdo.cn)联系。
 
-### 私人 Maven 仓库
-仓库地址：https://zmdo.mvn.pub/
+### 个人仓库
+Maven 仓库地址：https://zmdo.mvn.pub/
 
 ### 开发/维护中的项目
 - [loongson.js](https://github.com/zmdo/loongson.js) : (**开发进度：** 5%) 用 Typescript 实现龙芯 Loongarch 架构模拟。
