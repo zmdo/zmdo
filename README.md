@@ -28,10 +28,10 @@ Maven 仓库地址：https://zmdo.mvn.pub/
 
 ### 开发/维护中的项目
 - [loongson.js](https://github.com/zmdo/loongson.js) : (**开发进度：** 5%) 用 Typescript 实现龙芯 Loongarch 架构模拟。
-- [mengxi](https://github.com/zmdo/mengxi) : 梦溪框架，暂不公开。
 
 ### 计划的项目
 - [elecasm](https://github.com/zmdo/elecasm) : 在实现 loongarch.js 项目后实现一个简易的 Loongarch64 汇编器。
+- [mengxi](https://github.com/zmdo/mengxi) : 梦溪框架，暂不公开。
 
 ### 停止维护的项目
 - [tomcar.js](https://github.com/zmdo/tomcar.js) : 用 Typescript 实现 基因遗传 + 神经网络 算法的模拟跑车比赛。
