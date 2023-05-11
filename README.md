@@ -10,7 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zmdo&show_icons=true" />
 </picture>
 
-### 欢迎来到张铭的Github 👋
+### 欢迎来到我的Github 👋
 - 📖 努力学习编译原理
 - ✒️ 正在规划下一阶段目标
 - 😊 获取本账号头像的[全身像](https://github.com/zmdo/zmdo/blob/master/%E3%81%BF%E3%82%86%E3%81%8D%20(%E7%94%BB%E5%B8%88-%E5%96%B5%E5%92%95%E5%85%88%E6%A3%AE).jpg)
@@ -27,11 +27,11 @@
 Maven 仓库地址：https://zmdo.mvn.pub/
 
 ### 开发/维护中的项目
-- [loongson.js](https://github.com/zmdo/loongson.js) : (**开发进度：** 5%) 用 Typescript 实现龙芯 Loongarch 架构模拟。
+暂无
 
 ### 计划的项目
+- [loongson.js](https://github.com/zmdo/loongson.js) : (**开发进度：** 5%) 用 Typescript 实现龙芯 Loongarch 架构模拟。
 - [elecasm](https://github.com/zmdo/elecasm) : 在实现 loongarch.js 项目后实现一个简易的 Loongarch64 汇编器。
-- [mengxi](https://github.com/zmdo/mengxi) : 梦溪框架，暂不公开。
 
 ### 停止维护的项目
 - [tomcar.js](https://github.com/zmdo/tomcar.js) : 用 Typescript 实现 基因遗传 + 神经网络 算法的模拟跑车比赛。
