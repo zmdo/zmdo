@@ -12,7 +12,7 @@
 
 ### 欢迎来到我的Github 👋
 - 📖 学习 Pytorch 中
-- ✨ 的
+- 🚂 夙夜匪懈，矢勤矢勇
 - ✒️ 正在规划下一阶段目标
 
 ### 开发/维护中的开源项目。。。
@@ -26,7 +26,7 @@
 - [pogo](https://github.com/zmdo/pogo) : 可视化 golang 编程中的数据持久化结构体插件。已被 [Goland 插件仓库](https://plugins.jetbrains.com/plugin/16372-pogo) 收录。
 - [pomaker](https://github.com/zmdo/pomaker) : 根据 navicat 生成的 sql 语句，自动其将转换为 golang 数据持久化结构体，配合 pogo 插件使用。
 - [indexmenu 增强版](https://github.com/zmdo/indexmenu) : dokuwiki 目录插件，fork 自 [indexmenu](https://github.com/samuelet/indexmenu)，我在原有的基础上增加了 “目录排序” 及 “自定义目录标题” 功能。
-- [elecasm](https://github.com/zmdo/elecasm) : 大学时期针对《计算机系统组成结构》实验课的CPU实现的汇编器，本质上是可配置的。
+- [elecasm](https://github.com/zmdo/elecasm) : 大学时期针对《计算机组成原理》实验课的CPU实现的汇编器，本质上是可配置的。
 - [MCU32MathLib](https://github.com/openzzuli/MCU32MathLib) : 早期参加单片机比赛实现的数学库，包含了快速傅里叶变换、卡尔曼滤波、矩阵计算、复数计算等算法。
 
 注1：MCU32MathLib 项目是由学生时期账号 [Mingozon](https://github.com/MingoZon) 上传到[郑州轻工业大学开源社区](https://github.com/openzzuli)的项目。
